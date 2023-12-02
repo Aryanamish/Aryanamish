@@ -79,9 +79,9 @@
 
 ### Checkout my coding profiles:
 
-[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Aryanamish&theme=dark)](https://leetcode.com/aryanamish)
+[![Aryan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Aryanamish&theme=dark)](https://leetcode.com/aryanamish)
 
-[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=aryanamish)](https://auth.geeksforgeeks.org/user/aryanamish/practice/)
+[![Aryan's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=aryanamish)](https://auth.geeksforgeeks.org/user/aryanamish/practice/)
 
 ### My stats on GitHub:
 
