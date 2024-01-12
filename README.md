@@ -60,7 +60,7 @@
   <!-- <a href="https://discordapp.com/users/1080203547276230719">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a> -->
-  <a target="_blank" href="mailto:aryanamish385@gmail.com">
+  <a target="_blank" href="mailto:aryan.amish385@gmail.com">
     <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge">
   </a>
   <a target="_blank" href="https://twitter.com/aryanamish1">
