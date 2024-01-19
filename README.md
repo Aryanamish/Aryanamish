@@ -70,12 +70,19 @@
 
 ### My Projects:
 
+- [Event@Sathyabama](https://aryanamish.in/site/events-sathyabama/)
+  - [Repository](https://aryanamish.in/repo/events-sathyabama/)
+  - [Demo Video](https://aryanamish.in/video/events-sathyabama/)
 - [Vorkinsta](https://www.vorkinsta.com)
-- Event@Sathyabama
-  - [Repository](https://github.com/Aryanamish/event-management)
 - [Portfolio](https://aryanamish.in)
-- [Property Booking System](https://github.com/Surya-Kumar-03/Property-Booking-System)
-  - [Repository](https://github.com/Surya-Kumar-03/Property-Booking-System)
+- [Property Booking System](https://aryanamish.in/site/property-booking-system/)
+  - [Repository](https://aryanamish.in/repo/property-booking-system/)
+- SongStreamHub
+  - [Repository](https://aryanamish.in/repo/songstreamhub/)
+- [Steganography](https://aryanamish.in/site/steganography/)
+  - [Repository](https://aryanamish.in/repo/steganography/)
+- Food Blog
+  - [Repository](https://aryanamish.in/repo/dev_wiz_hackthon/)
 
 ### Checkout my coding profiles:
 
