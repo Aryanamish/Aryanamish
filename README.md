@@ -12,7 +12,7 @@
 - Completed 450+ unique Data Structures and Algorithms questions on LeetCode and GeeksforGeeks, showcasing problem-solving skills.
 - Achieved a 2-star <span ><svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M12.908 1.581a1 1 0 0 0-1.816 0l-2.87 6.22l-6.801.807a1 1 0 0 0-.562 1.727l5.03 4.65l-1.335 6.72a1 1 0 0 0 1.469 1.067L12 19.426l5.977 3.346a1 1 0 0 0 1.47-1.068l-1.335-6.718l5.029-4.651a1 1 0 0 0-.562-1.727L15.777 7.8l-2.869-6.22Z" clip-rule="evenodd"/></svg>
   <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M12.908 1.581a1 1 0 0 0-1.816 0l-2.87 6.22l-6.801.807a1 1 0 0 0-.562 1.727l5.03 4.65l-1.335 6.72a1 1 0 0 0 1.469 1.067L12 19.426l5.977 3.346a1 1 0 0 0 1.47-1.068l-1.335-6.718l5.029-4.651a1 1 0 0 0-.562-1.727L15.777 7.8l-2.869-6.22Z" clip-rule="evenodd"/></svg>
-  </span> rating on [CodeChef](https://www.codechef.com/users/aryanamish), demonstrating proficiency in competitive programming.
+  </span> rating on [CodeChef](https://aryanamish.in/profile/codechef/), demonstrating proficiency in competitive programming.
 - Eager to tackle new challenges and collaborate on innovative projects.
 
 ### Languages and tools I am familiar with:
@@ -73,12 +73,12 @@
 - [Event@Sathyabama](https://aryanamish.in/site/events-sathyabama/)
   - [Repository](https://aryanamish.in/repo/events-sathyabama/)
   - [Demo Video](https://aryanamish.in/video/events-sathyabama/)
-- [Vorkinsta](https://www.vorkinsta.com)
 - [Portfolio](https://aryanamish.in)
-- [Property Booking System](https://aryanamish.in/site/property-booking-system/)
-  - [Repository](https://aryanamish.in/repo/property-booking-system/)
 - SongStreamHub
   - [Repository](https://aryanamish.in/repo/songstreamhub/)
+- [Vorkinsta](https://www.vorkinsta.com)
+- [Property Booking System](https://aryanamish.in/site/property-booking-system/)
+  - [Repository](https://aryanamish.in/repo/property-booking-system/)
 - [Steganography](https://aryanamish.in/site/steganography/)
   - [Repository](https://aryanamish.in/repo/steganography/)
 - Food Blog
